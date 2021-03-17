@@ -13,7 +13,7 @@
 2021-03-12 11:54:24.571 [main] INFO  calculator.Calculator - [POWER - 2.0 RAISED TO] 3.0
 2021-03-12 11:54:24.572 [main] INFO  calculator.Calculator - [RESULT - POWER] - 8.0
 2021-03-12 11:54:24.572 [main] INFO  calculator.Calculator - [POWER - 4.0 RAISED TO] 3.0
-2021-03-12 11:54:24.572 [main] INFO  calculator.Calculator - [RESULT - POWER] - 64.0
+2021-03-12 11:54:24.572 [main] INFO  calculator.Calculator - [RESU1LT - POWER] - 64.0
 2021-03-12 11:54:24.573 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.4
 2021-03-12 11:54:24.573 [main] INFO  calculator.Calculator - [RESULT - NATURAL LOG] - 0.8754687373538999
 2021-03-12 11:54:24.573 [main] INFO  calculator.Calculator - [NATURAL LOG] - 2.1

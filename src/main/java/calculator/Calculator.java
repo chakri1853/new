@@ -22,14 +22,14 @@ public class Calculator {
             System.out.println("Calculator-DevOps, Choose to perform operation");
             System.out.print("Press 1 to find square root\nPress 2 to find factorial\nPress 3 to find natural log\nPress 4 to find power\n" +
                     "Press 5 to exit\nEnter your choice: ");
-            int choice;
+            int choice1;
             try {
-                choice = scanner.nextInt();
+                choice1 = scanner.nextInt();
             } catch (InputMismatchException error) {
                 return;
             }
 
-            switch (choice) {
+            switch (choice1) {
 
                 case 1:
                     // find square root
